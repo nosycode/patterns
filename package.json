@@ -1,0 +1,16 @@
+{
+  "name": "parcel-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "observer": "^0.0.2",
+    "parcel": "^1.11.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.2.2"
+  }
+}
